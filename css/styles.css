@@ -16,8 +16,6 @@ ul {
     height: 72px;
 }
 
-.navigation {}
-
 .logo {
     font-family: "Raleway", sans-serif;
     font-size: 18px;
@@ -32,8 +30,6 @@ ul {
     color: #4d5ae5;
 }
 
-.menu {}
-
 .menu-item {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -44,10 +40,6 @@ ul {
     color: #2e2f42;
 }
 
-.contacts {}
-
-.contacts-list {}
-
 .contacts-item {
     font-family: "Roboto", sans-serif;
     font-size: 16px;
@@ -56,8 +48,6 @@ ul {
     letter-spacing: 0.02em;
     color: #434455;
 }
-
-.main {}
 
 /*---------- Hero --------- */
 
@@ -100,8 +90,6 @@ ul {
 
 /*---------- Advantages --------- */
 
-.advantages-section {}
-
 .visually-hidden {
     position: absolute;
     width: 1px;
@@ -114,10 +102,6 @@ ul {
     border: 0;
     clip-path: inset(100%);
 }
-
-.advantages-list {}
-
-.advantages-item {}
 
 .advantages-subtitle {
     font-family: "Roboto", sans-serif;
@@ -154,14 +138,10 @@ ul {
     color: #2e2f42;
 }
 
-.team-list {}
-
 .team-item {
     box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
     background: #fff;
 }
-
-.team-images {}
 
 .team-subtitle {
     font-family: "Roboto", sans-serif;
@@ -186,8 +166,6 @@ ul {
 
 /*---------- Portfolio --------- */
 
-.portfolio-section {}
-
 .portfolio-title {
     font-family: "Roboto", sans-serif;
     font-size: 36px;
@@ -197,8 +175,6 @@ ul {
     text-align: center;
     color: #2e2f42;
 }
-
-.portfolio-list {}
 
 .portfolio-item {
     background: #fff;
